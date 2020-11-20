@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+header{
+    background-color: rgb(108, 219, 132);
+
+    height: 50px;
+}
+
+
+.head-tag a{
+    float: right;
+    margin-top: 10px;
+    margin-right: 55px;
+}
+.head-tag a{
+     text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: white;
+    
+    
+}
+.head-tag-search{
+    float: right;
+    margin-top: 5px;
+    margin-right: 20px;
+    color: rgb(202, 202, 218);
+    border: 3px solid white;
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:white;
+    text-decoration: none;
+
+}
+.head-tag-search input{
+    
+    text-align: center;
+}
+
+body {
+    background-size: 100%;
+}
+
+body h2{
+    text-align: center;
+    border: 2px solid rgb(169, 241, 185) ;
+    background-color: rgb(169, 241, 185);
+    font-style: serif;
+    color: rgba(14, 32, 17, 0.87);
+}
+
+
+.login{
+    
+    
+    border: 2px transparent rgb(42, 82, 50);
+    background-color: rgb(124, 212, 143);
+    height: 25em;
+    width: 25em;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.login-cont{
+    
+    margin-left: 50px;
+}
+
+.login a{
+    margin-left: 50px;
+}
+
+.login-cont p{
+    font-size: 12px;
+}
+
+.login-cont input{
+      border: solid rgb(169, 241, 185);
+      background-color: white;
+      width: 20em;
+
+}
+.login #signin{
+    width: 20em;
+    background-color: rgb(169, 241, 185);
+    margin-left: 50px;
+}
+
+/*footer*/
+footer{
+    background-color: rgb(108, 219, 132);
+    color: black;
+    text-align: center;
+    margin-top: 1%;
+    
+}

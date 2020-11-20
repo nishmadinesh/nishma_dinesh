@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.col-lg-10{
+    margin-left: 10%;
+    
+    margin-top: 2%;
+}
+.col-lg-10{
+    size: 10%;
+}
+
+
+header{
+    background-color: rgb(100, 207, 231);
+    height: 50px;
+}
+.head-tag a{
+    float: right;
+    margin-top: 10px;
+    margin-right: 55px;
+}
+.head-tag a{
+     text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: white;
+    
+    
+}
+.head-tag-search{
+    float: right;
+    margin-top: 5px;
+    margin-right: 20px;
+    color: rgb(202, 202, 218);
+    border: 3px solid white;
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:white;
+    text-decoration: none;
+
+}
+.head-tag-search input{
+    
+    text-align: center;
+}
+
+
+
+
+
+
+.carousel-caption p{
+      color: rgb(87, 37, 37);
+      font-style:italic;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      padding-bottom: 50%;
+      font-size: 500%;
+}
+
+.carousel-caption h2{
+    color: blue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 50%;
+}
+
+
+.carousel-caption h4{
+         font-style: italic;
+         color: rgb(99, 13, 77);
+         font-family: fantasy;
+         font-weight: 1000%;
+         margin-bottom: 20%;
+         text-decoration: underline;
+        
+}
+
+
+/*footer*/
+footer{
+    background-color:rgb(100, 207, 231);
+    color: black;
+    text-align: center;
+}
